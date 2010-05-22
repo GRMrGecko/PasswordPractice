@@ -1,0 +1,10 @@
+//
+//  Password_Practice_Prefix.pch
+//  Password Practice
+//
+//  Created by Mr. Gecko's Media on 5/21/10.
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

@@ -1,0 +1,1 @@
+Simple, type in your password twice to verify that you typed it in right, and then hit return, a new window will appear allowing you to type in your password as many times as you like and keep track of if you typed it in right or not.
