@@ -17,6 +17,11 @@ NSString * const MGMSoundsKey = @"sounds";
 	mistakes = 0;
 	[passwordWindow makeKeyAndOrderFront:self];
 }
+- (void)dealloc {
+	if (password!=nil)
+		[password release];
+	[super dealloc];
+}
 
 - (IBAction)pwContinue:(id)sender {
 	if ([[pwPassword stringValue] isEqualToString:[pwVerify stringValue]]) {
@@ -54,7 +59,7 @@ NSString * const MGMSoundsKey = @"sounds";
 	}
 	[ppTotal setIntValue:total];
 	[ppCorrect setIntValue:correct];
-	[ppMisstakes setIntValue:mistakes];
+	[ppMistakes setIntValue:mistakes];
 	[ppAccuracy setStringValue:[NSString stringWithFormat:@"%.0f%%", ((float)correct/(float)total)*100]];
 	[ppPassword setStringValue:@""];
 }

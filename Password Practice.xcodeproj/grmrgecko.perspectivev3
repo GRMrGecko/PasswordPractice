@@ -233,8 +233,6 @@
 			<key>Layout</key>
 			<array>
 				<dict>
-					<key>BecomeActive</key>
-					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -278,8 +276,6 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>7</integer>
-									<integer>5</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -364,8 +360,6 @@
 									<dict>
 										<key>Frame</key>
 										<string>{{10, 27}, {1073, 646}}</string>
-										<key>RubberWindowFrame</key>
-										<string>0 59 1280 719 0 0 1280 778 </string>
 									</dict>
 									<key>Module</key>
 									<string>XCDetailModule</string>
@@ -387,10 +381,33 @@
 									<string>PBXProjectFindModule</string>
 								</dict>
 								<dict>
+									<key>BecomeActive</key>
+									<true/>
 									<key>ContentConfiguration</key>
 									<dict>
 										<key>PBXCVSModuleFilterTypeKey</key>
 										<integer>1032</integer>
+										<key>PBXCVSModuleTreeModuleColumnData</key>
+										<dict>
+											<key>PBXCVSModuleTreeModuleColumnWidthsKey</key>
+											<array>
+												<real>655</real>
+												<real>56</real>
+												<real>63</real>
+												<real>60</real>
+												<real>63</real>
+												<real>139</real>
+											</array>
+											<key>PBXCVSModuleTreeModuleColumnsKey</key>
+											<array>
+												<string>Name</string>
+												<string>Status</string>
+												<string>Update</string>
+												<string>Revision</string>
+												<string>Author</string>
+												<string>Date</string>
+											</array>
+										</dict>
 										<key>PBXProjectModuleGUID</key>
 										<string>1CA23EE10692099D00951B8B</string>
 										<key>PBXProjectModuleLabel</key>
@@ -399,7 +416,9 @@
 									<key>GeometryConfiguration</key>
 									<dict>
 										<key>Frame</key>
-										<string>{{10, 31}, {603, 297}}</string>
+										<string>{{10, 27}, {1073, 646}}</string>
+										<key>RubberWindowFrame</key>
+										<string>0 59 1280 719 0 0 1280 778 </string>
 									</dict>
 									<key>Module</key>
 									<string>PBXCVSModule</string>
@@ -447,11 +466,11 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>2AA24D5811A87C620032E0EF</string>
+				<string>2ADA1F6F11A8D0C400436309</string>
 				<string>1CA23ED40692098700951B8B</string>
-				<string>2AA24D5911A87C620032E0EF</string>
+				<string>2ADA1F7011A8D0C400436309</string>
 				<string>2AA24D0011A82F8E0032E0EF</string>
-				<string>2AA24D5A11A87C620032E0EF</string>
+				<string>2ADA1F7111A8D0C400436309</string>
 				<string>1CA23EDF0692099D00951B8B</string>
 				<string>1CA23EE00692099D00951B8B</string>
 				<string>1CA23EE10692099D00951B8B</string>
@@ -643,7 +662,8 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
-		<string>/Users/grmrgecko/Desktop/Password Practice/Password Practice.xcodeproj</string>
+		<string>2AA24D1711A82F8F0032E0EF</string>
+		<string>/Development/James' Applications/Password Practice/Password Practice.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>0 59 1280 719 0 0 1280 778 </string>
@@ -1478,7 +1498,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>2AA24D1711A82F8F0032E0EF</string>
-				<string>2AA24D1811A82F8F0032E0EF</string>
+				<string>2ADA1F7511A8D17800436309</string>
 				<string>2AA24D1611A82F8F0032E0EF</string>
 			</array>
 			<key>WindowString</key>

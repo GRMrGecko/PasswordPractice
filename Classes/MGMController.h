@@ -17,7 +17,7 @@
 	IBOutlet NSTextField *ppPassword;
 	IBOutlet NSTextField *ppTotal;
 	IBOutlet NSTextField *ppCorrect;
-	IBOutlet NSTextField *ppMisstakes;
+	IBOutlet NSTextField *ppMistakes;
 	IBOutlet NSTextField *ppAccuracy;
 	int total;
 	int correct;

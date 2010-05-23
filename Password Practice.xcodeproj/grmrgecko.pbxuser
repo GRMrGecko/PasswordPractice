@@ -3,16 +3,16 @@
 	256AC3D80F4B6AC300CF3369 /* MGMController.h */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1221, 646}}";
-			sepNavSelRange = "{157, 0}";
-			sepNavVisRange = "{0, 689}";
+			sepNavSelRange = "{688, 0}";
+			sepNavVisRange = "{0, 688}";
 			sepNavWindowFrame = "{{0, 4}, {1280, 774}}";
 		};
 	};
 	256AC3D90F4B6AC300CF3369 /* MGMController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1221, 949}}";
-			sepNavSelRange = "{0, 95}";
-			sepNavVisRange = "{0, 1429}";
+			sepNavIntBoundsRect = "{{0, 0}, {1221, 1014}}";
+			sepNavSelRange = "{374, 0}";
+			sepNavVisRange = "{0, 1364}";
 			sepNavWindowFrame = "{{0, 4}, {1280, 774}}";
 		};
 	};
@@ -80,8 +80,12 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 296254544;
-			PBXWorkspaceStateSaveDate = 296254544;
+			PBXPerProjectTemplateStateSaveDate = 296276148;
+			PBXWorkspaceStateSaveDate = 296276148;
+		};
+		perUserProjectItems = {
+			2ADA1F6E11A8D0BE00436309 /* PBXBookmark */ = 2ADA1F6E11A8D0BE00436309 /* PBXBookmark */;
+			2ADA1F7411A8D0C400436309 /* PBXTextBookmark */ = 2ADA1F7411A8D0C400436309 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 2AA24CA711A796140032E0EF /* Source Control */;
 		userBuildSettings = {
@@ -133,7 +137,7 @@
 		isSCMEnabled = 0;
 		scmConfiguration = {
 			repositoryNamesForRoots = {
-				"" = "";
+				"" = "Password Practice";
 			};
 		};
 	};
@@ -145,6 +149,20 @@
 		uiCtxt = {
 			sepNavWindowFrame = "{{0, 4}, {1280, 774}}";
 		};
+	};
+	2ADA1F6E11A8D0BE00436309 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* MGMController.h */;
+	};
+	2ADA1F7411A8D0C400436309 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 256AC3D80F4B6AC300CF3369 /* MGMController.h */;
+		name = "MGMController.h: 20";
+		rLen = 10;
+		rLoc = 447;
+		rType = 0;
+		vrLen = 689;
+		vrLoc = 0;
 	};
 	8D1107260486CEB800E47090 /* Password Practice */ = {
 		activeExec = 0;
